@@ -86,3 +86,4 @@ The sandbox gives each job its own process, a throwaway directory and a timeout 
 - An optional LLM mentor for open-ended questions, given the analyzer's structured facts as context.
 - A hardened, containerized runner; PostgreSQL in the sandbox so types match production.
 - Accounts and server-side progress (progress is currently stored in browser localStorage).
+sd
